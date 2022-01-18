@@ -1,4 +1,4 @@
-1.8.9 patch (01/07/2022) vs 1.7.15 patch (10/29/2021)
+1.8.10 patch (01/18/2022) vs 1.7.15 patch (10/29/2021)
 
 EU2021 / BGT2021 / IGT2021 vs EU2020 / BGT2019 / IGT2019
 
@@ -8,8 +8,8 @@ EU B2: Spa-Francorchamps
 EU C: Imola, Silverstone (no 2021 update)
 EU C1: Nurburgring
 EU C2: Barcelona
-EU D: Hungaroring, Zolder (no 2021 update)
-EU D1: Brands Hatch
+EU D: Hungaroring (no 2021 update)
+EU D1: Brands Hatch, Zolder
 EU D2: Misano, Zandvoort
 
 IGT A: Mount Panorama
@@ -154,6 +154,8 @@ FERRARI 488 EVO:
 
 MCLAREN 720S:
 
+	1.8.10 --> Minor power nerf from 6000 to 7500RPM IGT A ; EU A ; EU C1 ; EU C2 ; EU D1 ; EU D2
+	
 	Increased braking torque
 
 	-25kg BGT A
@@ -296,11 +298,27 @@ NISSAN GTR 2018:
 
 	-15kg EU D1
 
-BMW M4: 
+BMW M4: 1.8.9 --> 1.8.10
 
 	TC minimum speed: 40kmh
 
 	Fixed 120L on all tracks
+
+	Increased drag
+
+	Adjusted rear downforce generation
+
+	-5kg EU A
+
+	+10kg BGT B
+
+	+10kg EU B2
+	
+	+10kg EU C2
+
+	+10kg EU D1
+
+	+10kg EU D2
 
 BMW M6:
 
